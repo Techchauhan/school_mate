@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683702355236",
+    "project_id": "school-mate-ddc98",
+    "storage_bucket": "school-mate-ddc98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683702355236:android:9f76a187d9903bd4005fb1",
+        "android_client_info": {
+          "package_name": "com.example.school_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFyVPkIU5B27JZC1AQQZvmwMDGwtc1Vlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
